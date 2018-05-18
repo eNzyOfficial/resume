@@ -755,3 +755,7 @@ ul.courses li:hover {
         opacity: 1 !important;
     }
 }
+
+.gpa {
+    visibility: hidden;
+}
