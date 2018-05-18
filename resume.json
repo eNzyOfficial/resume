@@ -1,0 +1,282 @@
+{
+  "basics": {
+    "name": "Carl Knowles",
+    "label": "Backend Web Developer",
+    "picture": "https://media.licdn.com/dms/image/C5603AQG6Kr_qi6eHYg/profile-displayphoto-shrink_200_200/0?e=1531958400&v=beta&t=sAB70nVSuNawfv2WniYRNB38aTeRcpW-TT0dH6WU8Fg",
+    "email": "carl@dysfunctio.nl",
+    "phone": "(+44) 07516 811 931",
+    "website": "http://cpk.cx",
+    "summary": "Orignally from the outskirts of London, starting my working life as an event coordinator. During this time I was exposed to web development and since then have been constantly pushing myself to learn new things and further my knowledge. I love building and developing things, pushing forward with new tech and ideas. Seeing the final product come to fruition is what drives me, especially if it has made a difference.",
+    "location": {
+      "address": "76 Beresford Street",
+      "postalCode": "ST4 2ES",
+      "city": "Stoke",
+      "countryCode": "",
+      "region": "Staffordshire"
+    },
+    "profiles": [
+      {
+        "network": "GitHub",
+        "username": "enzyofficial",
+        "url": "https://github.com/eNzyOfficial"
+      },
+      {
+        "network": "Reddit",
+        "username": "eNzyy",
+        "url": "http://reddit.com/u/enzyy"
+      },
+      {
+        "network": "DeviantArt",
+        "username": "enzyofficial",
+        "url": "https://enzyofficial.deviantart.com"
+      },
+      {
+        "network": "linkedin",
+        "username": "justcpk",
+        "url": "https://www.linkedin.com/in/justcpk"
+      }
+    ]
+  },
+  "work": [
+    {
+      "company": "EU Automation",
+      "position": "Backend Developer",
+      "website": "https://www.euautomation.com",
+      "startDate": "2016",
+      "endDate": "2017",
+      "summary": "Joining EU Automation as the second backend developer, my colleague and I were tasked with connecting the website to our internal system through a microservice built on Node and GraphQL which was responsible for handling CRM, Sales, Finance, HR, Marketing, Customer Support and Logistics. Throughout the year the company opened up offices in Singapore and America with plans to expand into China which meant the website and internal system had to account for multiple currencies and languages. During this time we shifted all of our digital assets to Akamai CDN; built an Ad Campaign bot to handle ads and modify ad spend depending on the companies sales; built a bot to scrape product prices to pipe into our internal system to allow Sales to concentrate on their clients; finally, pull all statistical data from the database and into Google BigQuery, ready to be used by Sale Directors and the CEO to monitor growth of the company.",
+      "highlights": [
+        "GraphQL",
+        "AdWords",
+        "CRM",
+        "Big Data"
+      ]
+    },
+    {
+      "company": "Freelance",
+      "position": "Backend Developer",
+      "website": "http://cpk.cx",
+      "startDate": "2012",
+      "endDate": "2016",
+      "summary": "As a freelance developer, I've worked on numerous projects, from small bug fixes and additional features to fully fledged customer dashboards and exposing APIs.",
+      "highlights": []
+    },
+    {
+      "company": "Tempero",
+      "position": "Content Moderator",
+      "website": "https://icuc.social",
+      "startDate": "2014",
+      "endDate": "2014",
+      "summary": "Moderating user generated content for Activision's video game Call of Duty via social media such as Facebook and YouTube.",
+      "highlights": []
+    },
+    {
+      "company": "RNR Events",
+      "position": "Event Coordinator",
+      "website": "",
+      "startDate": "2008",
+      "endDate": "2010",
+      "summary": "Events Coordinator for a local Venue managing 2 smalls teams of 3 to 10 people. Helping to increase attendance by 40% through hosting and marketing events. Managing each event through the planning, booking and budget stages as well as design, promotion and advertisement stages and supervising the event start to finish.",
+      "highlights": []
+    }
+  ],
+  "volunteer": [
+    {
+      "organization": "Reddit CS:GO",
+      "position": "Community Manager / Senior Developer",
+      "website": "https://www.reddit.com/r/GlobalOffensive/",
+      "startDate": "2013",
+      "endDate": "2015",
+      "summary": "Community manager, moderator and senior developer of the official CS:GO subreddit. Helping to grow the community from 100k unique views per month to over 2m throughout the course of a year. Designed the layout and created a bot using numerous API's to feed data into the reddit sidebar.",
+      "highlights": []
+    },
+    {
+      "organization": "Reddit Dota2",
+      "position": "Front end developer",
+      "website": "https://www.reddit.com/r/dota2",
+      "startDate": "2015",
+      "endDate": "2015",
+      "summary": "Ported over the CS:GO design for use with Dota2.",
+      "highlights": []
+    }
+  ],
+  "education": [
+    {
+      "institution": "Barnwell Business & Enterprise",
+      "area": "",
+      "studyType": "GCSE",
+      "startDate": "2001",
+      "endDate": "2006",
+      "gpa": "",
+      "courses": [
+        "Mathematics",
+        "English",
+        "Science",
+        "GNVQ IT Level 2"
+      ]
+    },
+    {
+      "institution": "Zenos IT Academy",
+      "area": "CompTIA",
+      "studyType": "",
+      "startDate": "2010",
+      "endDate": "2011",
+      "gpa": "",
+      "courses": [
+        "A+",
+        "Network+"
+      ]
+    },
+    {
+      "institution": "North Hertfordshire College",
+      "area": "BTEC Diploma in IT",
+      "studyType": "",
+      "startDate": "2011",
+      "endDate": "2013",
+      "gpa": "",
+      "courses": []
+    },
+    {
+      "institution": "University of Leicester",
+      "area": "Computer Science BSc",
+      "studyType": "",
+      "startDate": "2013",
+      "endDate": "2015",
+      "gpa": "",
+      "courses": []
+    },
+    {
+      "institution": "Staffordshire University",
+      "area": "Web Development Bsc",
+      "studyType": "",
+      "startDate": "2015",
+      "endDate": "2018",
+      "gpa": "",
+      "courses": []
+    }
+  ],
+  "awards": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "PHP",
+      "level": "Advanced",
+      "keywords": [
+        "laravel",
+        "api",
+        "graphql",
+        "mysql",
+        "orm",
+        "caching",
+        "mvc",
+        "oauth",
+        "tdd",
+        "git",
+        "composer"
+      ]
+    },
+    {
+      "name": "Javascript",
+      "level": "Intermediate",
+      "keywords": [
+        "Node",
+        "AdonisJS",
+        "Automation/Bots",
+        "jQuery"
+      ]
+    },
+    {
+      "name": "CSS",
+      "level": "advanced",
+      "keywords": []
+    },
+    {
+      "name": "HTML",
+      "level": "advanced",
+      "keywords": []
+    },
+    {
+      "name": "Photoshop",
+      "level": "Advanced",
+      "keywords": []
+    },
+    {
+      "name": "Linux",
+      "level": "Intermediate",
+      "keywords": []
+    },
+    {
+      "name": "C#",
+      "level": "Intermediate",
+      "keywords": [
+        "unity",
+        "wpf"
+      ]
+    },
+    {
+      "name": "Continous Integration",
+      "level": "Intermediate",
+      "keywords": [
+        "AWS",
+        "Jenkins",
+        "CircleCI"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "Native speaker"
+    },
+    {
+      "language": "Swedish",
+      "fluency": "Beginner"
+    },
+    {
+      "language": "Mandarin",
+      "fluency": "Beginner"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Instruments",
+      "keywords": [
+        "Guitar",
+        "Bass",
+        "Drums"
+      ]
+    },
+    {
+      "name": "Games",
+      "keywords": [
+        "Overwatch",
+        "CS:GO",
+        "Black Desert",
+        "Battlefield"
+      ]
+    },
+    {
+      "name": "Music",
+      "keywords": [
+        "Rock",
+        "Metal",
+        "Dubstep",
+        "DnB",
+        "Ska",
+        "Punk"
+      ]
+    },
+    {
+      "name": "Travel",
+      "keywords": [
+        "Sri Lanka",
+        "Thailand",
+        "France",
+        "Germany",
+        "Spain",
+        "Sweden"
+      ]
+    }
+  ],
+  "references": []
+}
