@@ -679,6 +679,7 @@ ul.courses li:hover {
     .organization::before,
     .awarder::before {
         content: "at ";
+        margin-right:5px;
     }
     .main-summary {
         padding: 2rem 0;
@@ -715,8 +716,8 @@ ul.courses li:hover {
     }
     ul.keywords li::after,
     ul.courses li::after {
-        padding: 0 0 0 .1rem;
         content: " |";
+        margin-left:5px;
     }
     ul.keywords::before,
     ul.courses::before {
